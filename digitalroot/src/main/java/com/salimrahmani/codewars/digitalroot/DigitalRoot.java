@@ -2,11 +2,7 @@ package com.salimrahmani.codewars.digitalroot;
 
 public class DigitalRoot {
     public static int digital_root(int n) {
-        if (String.valueOf(n).length() == 1) {
-            return n;
-        }
-
-        return digital_root(sum_digits(n));
+        return n < 10 ? n : digital_root(sum_digits(n));
     }
 
     private static int sum_digits(int n) {
@@ -17,6 +13,5 @@ public class DigitalRoot {
         }
 
         return sum;
-
     }
 }
