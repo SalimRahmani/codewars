@@ -11,6 +11,7 @@
     <modules>
         <module>equalssidesofanarray</module>
         <module>supermaketqueue</module>
+        <module>digitalroot</module>
     </modules>
 
     <properties>
