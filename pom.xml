@@ -12,6 +12,7 @@
         <module>equalssidesofanarray</module>
         <module>supermaketqueue</module>
         <module>digitalroot</module>
+        <module>fibnumbersproduct</module>
     </modules>
 
     <properties>
