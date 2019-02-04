@@ -1,2 +1,2 @@
 # codewars
-[![Codewars](https://www.codewars.com/users/SalimRahmani/badges/large)]()
+[![Codewars](https://www.codewars.com/users/SalimRahmani/badges/micro)]()
