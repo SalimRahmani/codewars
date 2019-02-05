@@ -5,3 +5,4 @@ target
 .classpath
 *.versionsBackup
 *.iml
+.DS_Store
